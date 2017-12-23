@@ -62,9 +62,4 @@ with open('token.txt', "r") as token_file:
 client.run(str(token))
 
 
-# Please modify the parts of the code where it asks you to. Example: The Prefix or The Bot Token
-# This is by no means a full bot, it's more of a starter to show you what the python language can do in Discord.
-# Thank you for using this and don't forget to star my repo on GitHub! [Repo Link: https://github.com/Habchy/BasicBot]
-
-# The help command is currently set to be Direct Messaged.
-# If you would like to change that, change "pm_help = True" to "pm_help = False" on line 9.
+# https://github.com/TheRedshift/kys-bot
